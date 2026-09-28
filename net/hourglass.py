@@ -224,4 +224,3 @@ def create_model(inputs, num_stack, feat_channals, output_channals, num_modules,
   return outputs_list
 
 
-
