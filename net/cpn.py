@@ -298,4 +298,3 @@ def cascaded_pyramid_net(inputs, output_channals, heatmap_size, istraining, data
     return pyramid_heatmaps + [outputs]
 
 
-
